@@ -13,6 +13,6 @@ Full-stack, integration engineering, and DevOps. Currently the sole PIC of a bid
 - DevOps: Docker, Kubernetes (CKA certified), CI/CD, Traefik, Ansible
 - Frontend: React, Vue, Next.js, Angular
 
-**Certified:** CKA (Certified Kubernetes Administrator, Linux Foundation) · CCSD (Certified DevOps Foundation)
+**Certified:** Shopify Development Fundamentals · CKA (Certified Kubernetes Administrator) · CCSD (Certified DevOps Foundation) · TryHackMe Jr Penetration Tester
 
 **Elsewhere:** [Portfolio](https://haziqdev.vercel.app) · [LinkedIn](https://linkedin.com/in/haziq-luffy)
