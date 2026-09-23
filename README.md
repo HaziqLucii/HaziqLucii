@@ -4,7 +4,7 @@ Full-stack, integration engineering, and DevOps. Currently the sole PIC of a bid
 
 **Building right now:** [`haro`](https://github.com/HaziqLucii/haro-oss), a local-first orchestrator for running multiple AI coding agents in parallel, each isolated in its own git worktree, gated behind a CI test suite before anything merges.
 
-**Also shipped:** a cashier-less self-checkout kiosk (software + hardware, solo build), a Shopify loyalty platform, [`kurokan`](https://github.com/HaziqLucii/infra-monitor-dashboard) (a daily dashboard application for infra monitoring), and a couple of Linux ricing projects ([`kuro`](https://github.com/HaziqLucii/kuro), [`kuroshima`](https://github.com/HaziqLucii/kuroshima)) because a terminal should look intentional too.
+**Also shipped:** a cashier-less self-checkout kiosk (software + hardware, solo build), a Shopify loyalty platform, [`kurokan`](https://github.com/HaziqLucii/infra-monitor-dashboard) (a daily dashboard application for infra monitoring), and a couple of Linux ricing projects ([`kuro`](https://github.com/HaziqLucii/kuro), [`kuroshima`](https://github.com/HaziqLucii/kuroshima)) because everything I touch should be monochrome and intentional.
 
 **Stack**
 - Integration/ERP: SAP B1 Service Layer, workflow automation
